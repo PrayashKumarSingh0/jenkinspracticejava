@@ -4,7 +4,7 @@ public class practice {
         String name = args.length > 0 ? String.join(" ", args) : "Jenkins";
 
         int firstNumber = 10;
-        int secondNumber = 20;
+        int secondNumber = 30;
         int total = add(firstNumber, secondNumber);
 
         System.out.println("Hello, " + name + "!");
